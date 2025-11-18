@@ -1,2 +1,1 @@
-Open and collaborative software development for applications in Environmental Sciences
-
+Software development for open and collaborative research in Environmental Sciences
